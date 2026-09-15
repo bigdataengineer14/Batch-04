@@ -120,9 +120,6 @@ for ch in name:
 for i in range(len(name)):
     print(i , name[i])
 
-for i in range(len(name)):
-    print(i , name[i])
-
 
 
 
